@@ -1,11 +1,11 @@
 {
 	"0x27324c0d445f94550b53936dBAB7fD168634f192": {
-		"name": "Re7 Labs TON",
+		"name": "Test Vault",
 		"description": "Component of the Re7 Labs TAC Cluster",
 		"entity": "re7-labs"
 	},
 	"0x4ac2478eb1DDf574b0ffF297a25BB496af1fA207": {
-		"name": "Re7 Labs WETH",
+		"name": "Re7 Custom repo WETH",
 		"description": "Component of the Re7 Labs TAC Cluster",
 		"entity": "re7-labs"
 	},
